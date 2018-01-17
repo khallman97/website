@@ -1,0 +1,72 @@
+html { 
+  background: url(../images/background1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: "Helvetica Neue", sans-serif;
+}
+
+a { color: inherit; } 
+
+h1,img{
+	display: inline-block;
+	padding: 15px;
+	margin: -7 auto;
+}
+.tabs {
+	width: 600px;
+	height: 50px;
+	background: rgba(0,0,0,0.7);
+	padding-top:20px;
+	padding-bottom: 20px;
+	color: white;
+	margin: 0 auto;
+	margin-top: 80px;
+	text-align: center;
+	border-radius: 25px;
+}
+
+.main-Port {
+	width: 400px;
+	background: rgba(0,0,0,0.7);
+	padding: 40px;
+	color:white	;
+	margin: 0 auto;
+	margin-top: 80px; 
+	text-align: center;
+	border-radius: 25px;
+}
+.port-events {
+	height: 750px;
+	background: rgba(0,0,0,0.7);
+	padding: 40px;
+	color:white	;
+	margin: 0 auto;
+	margin-top: 80px; 
+	text-align: center;
+	border-radius: 25px;	
+}
+
+.portrait {
+	margin: 0 auto;
+	height: 800px;
+	width: 800px;
+	display: inline-block;	
+}
+.img{
+	border-radius: 0%;
+	max-width: 100%;
+    max-height: 100%;
+   
+}
+
+
+
+
+
+
+
+
+
+
